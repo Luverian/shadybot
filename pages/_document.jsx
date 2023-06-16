@@ -18,7 +18,7 @@ class MyDocument extends Document {
           <meta name="twitter:creator" content="@ShadyBOT" />
           <meta property="og:url" content="https://shadybot.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="ShadyBot" />
+          <meta property="og:title" content="ShadyBOT" />
           <link
             rel="icon"
             href="/img/logo2.png"
