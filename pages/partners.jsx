@@ -20,7 +20,7 @@ export default function Partners() {
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1111328614575788143/1119368150098653184/pngwing.com.png?width=676&height=676" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Code Share</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Waiting...</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                         Waiting...
@@ -36,7 +36,7 @@ export default function Partners() {
                             <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/icons/1111292586750136320/e02fa2b774b8cca1c1fcc29385f82abc.png" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">The Developers</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Reynas</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                     ShadyBOT Support Server.
