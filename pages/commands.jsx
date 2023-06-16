@@ -36,7 +36,7 @@ export default function Commands() {
          Bot Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the Astra Bot.
+        You can get information about the commands of the ShadyBOT.
         </p>
 
         <div>
@@ -99,7 +99,7 @@ Support Server</a>
   
   <Link href={"https://top.gg/bot/1111055828586344458/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Astra</a>
+Vote ShadyBOT</a>
   </Link>
 </div>
 
