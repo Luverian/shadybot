@@ -48,19 +48,19 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
                             <div>
-                                <Link href="https://bit.ly/3LYzaDe">
+                                <Link href="https://top.gg/bot/1111055828586344458/vote">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                         Vote Bot
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/ZcDprCrFTn" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.gg/JaJzH3M7xv" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Support Server
                                 </a>
                             </div>
                             <div>
-                                <a href=" https://bit.ly/3PHDjyC" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.com/api/oauth2/authorize?client_id=1111055828586344458&permissions=8&scope=bot%20applications.commands" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Invite Bot
                                 </a>
                             </div>
@@ -68,21 +68,21 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
                             <div>
-                                <Link href="https://discord.gg/ST89uArTdh">
+                                <Link href="https://discord.gg/JaJzH3M7xv">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Disocrd 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://github.com/1umutda/MusicBot">
+                                <Link href="https://github.com/">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-github`} /> GitHub 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://youtube.com/UmutBayraktarYT">
+                                <Link href="https://www.youtube.com/@ReynasWho">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-youtube`} /> YouTube 
                                     </a>
@@ -113,11 +113,11 @@ export default function Footer() {
                         </p>
                         <div className="hidden md:flex items-center justify-center">
                                 <p className={"text-xs text-green-400"}>
-                                    Bot Online
+                                    Bot Online!
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"Astra Bot ❤️"}
+                            {"ShadyBOT ❤️"}
                         </p>
                     </div>
                 </div>
