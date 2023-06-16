@@ -85,7 +85,7 @@ export default function Commands() {
   
   <Link href={"https://discord.com/api/oauth2/authorize?client_id=1111055828586344458&permissions=8&scope=bot%20applications.commands"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite Astra</a>
+Invite ShadyBOT</a>
   </Link>
 
   <div className="py-10"></div>
